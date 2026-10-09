@@ -2,6 +2,9 @@
 Python pipeline for FlowCAM data to make it EcoTaxa friendly : )
 Modified code from the VisibleOcean blog: https://sarigiering.co/posts/from-flowcam-to-ecotaxa/
 
+Latest version: V2!!!
+Now with conversion of strange .TIFF images - improves working on FlowCAM VS-IV files!!!
+
 The code was prepared in Jupyter notebook style, but can be united and run as a regular python script.
 INPUT: 
 + FlowCAM images (mosaics of many images) + .lst file (generated during acquisition, containing all objects properiteis) 
